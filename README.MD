@@ -24,8 +24,10 @@ The purpose of this project is show how to implement CI/CD using AWS in django.
     + Code Build:  build code and deploy to ECR
     + Code Deploy: Update ECS service using ECR
     
-
-
-
+  
+### Contact Me
++ Name: Jason Halog
++ Email: certainty15750@yahoo.com
++ Profile: https://www.upwork.com/o/profiles/users/~0157582bfc2c74c01c/
 
 
