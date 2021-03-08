@@ -1,4 +1,4 @@
-## Reminder
+## Reminder (CI/CD using AWS CodePipeline)
 
 This is simple django project to send reminder email to patients at the scheduled time.
 The purpose of this project is show how to implement CI/CD using AWS in django.

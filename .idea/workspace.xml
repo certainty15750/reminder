@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c907d52-92e0-4ce5-b749-0bf2c62bed6a" name="Default Changelist" comment="update api endpoint" />
+    <list default="true" id="8c907d52-92e0-4ce5-b749-0bf2c62bed6a" name="Default Changelist" comment="update contact me">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +92,7 @@
       <workItem from="1611284026366" duration="2302000" />
       <workItem from="1615168663405" duration="319000" />
       <workItem from="1615171150292" duration="66000" />
+      <workItem from="1615171225066" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="update api endpoint">
       <created>1611284071617</created>
@@ -98,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611284071617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <created>1615171281143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615171281143</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update contact me">
+      <created>1615171377365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615171377365</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +135,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update api endpoint" />
-    <option name="LAST_COMMIT_MESSAGE" value="update api endpoint" />
+    <MESSAGE value="init commit" />
+    <MESSAGE value="update contact me" />
+    <option name="LAST_COMMIT_MESSAGE" value="update contact me" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
